@@ -28,6 +28,8 @@ btnAdd.addEventListener("click", function () {
         mensagem.style.display = "none";
       }, 3000);
   }
+  
+  //comando para zerar o input
   document.querySelector("#myInput").value = ""; // Zera o input
   });
 
